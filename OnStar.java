@@ -7,7 +7,7 @@ public class OnStar {
         // determine miles per gallon
 
         if (fuelConsumed==0) {
-            return 0.0;
+            return 10.0;
         }
 
         return miles / fuelConsumed;
