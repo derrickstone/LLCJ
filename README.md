@@ -1,2 +1,2 @@
 # LLJC
-Now is the time for all good
+2024 is going to be a great year
