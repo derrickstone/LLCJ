@@ -9,7 +9,7 @@ public class OnStar {
         if (fuelConsumed==0) {
             return 30.0;
         }
-
+        //note
         return miles / fuelConsumed;
 
     }
