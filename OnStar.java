@@ -10,6 +10,7 @@ public class OnStar {
             return 30.0;
         }
         miles +=10;
+        // here is a comment that changes the java file
         return miles / fuelConsumed;
 
     }
