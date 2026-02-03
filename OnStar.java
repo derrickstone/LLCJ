@@ -1,4 +1,4 @@
-// Written by Hash Master Stone
+// Author is J Jonah Jameson
 public class OnStar {
 
     public String greeting() {
