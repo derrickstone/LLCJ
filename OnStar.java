@@ -1,4 +1,4 @@
-// Author is Markie Mark
+// Author is J Jonah Jameson
 public class OnStar {
 
     public String greeting() {
