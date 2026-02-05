@@ -7,7 +7,7 @@ public class OnStar {
     }
     public double calculateMileage(int miles, double fuelConsumed) {
         // determine miles per gallon
-
+///  change
         if (fuelConsumed==0) {
             return 30.0;
         }
